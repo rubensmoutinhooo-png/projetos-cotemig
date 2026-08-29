@@ -1,6 +1,6 @@
 # Projetos Cotemig
 
-Pasta com os trabalhos feitos durante o curso de Analise e Desenvolvimento de Sistemas no Cotemig (Belo Horizonte), reorganizados aqui pra guardar no GitHub.
+Pasta com os trabalhos feitos durante o curso tecnico de Informatica no Cotemig (Belo Horizonte), com especializacao em desenvolvimento mobile (iOS/Android), reorganizados aqui pra guardar no GitHub.
 
 #### Projetos
 
